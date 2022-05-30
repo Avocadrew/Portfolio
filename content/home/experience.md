@@ -25,16 +25,13 @@ experience:
   - title: CEO
     company: GenCoin
     company_url: ''
-    company_logo: org-gc
+    company_logo: Logi
     location: California
     date_start: '2021-01-01'
     date_end: ''
-    description: |2-
-        Responsibilities include:
-        
-        * Analysing
-        * Modelling
-        * Deploying
+    description: 
+    Imaging Engineering - Image Quality Team, Video Collaboration Group.
+    Worked on automation algorithms, test scene building, scene test conducting/analysis and in-house tool making for next-gen camera products.
 
   - title: Professor of Semiconductor Physics
     company: University X
