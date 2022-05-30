@@ -35,7 +35,7 @@ experience:
 
   - title: Research Assistant
     company: National Taiwan Normal University
-    company_url: 'https://www.ntnu.edu.tw/'
+    company_url: ''
     company_logo: NTNU
     location: Taipei,Taiwan
     date_start: '2021-10-01'
@@ -45,7 +45,7 @@ experience:
 
     - title: Research Assistant
     company: National Taiwan University of Science and Technology
-    company_url: 'https://www.ntust.edu.tw/'
+    company_url: ''
     company_logo: NTUST
     location: Taipei,Taiwan
     date_start: '2020-04-01'
@@ -56,7 +56,7 @@ experience:
 
     - title: Research Assistant
     company: National Taiwan University of Science and Technology
-    company_url: 'https://www.ntust.edu.tw/'
+    company_url: ''
     company_logo: NTUST
     location: Taipei,Taiwan
     date_start: '2019-02-01'
