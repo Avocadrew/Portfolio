@@ -9,11 +9,10 @@ superuser: true
 role: Imaging Intern @Logitech Inc.
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Nat
-    url: https://www.stanford.edu/
-
+  - name: National Taiwan University of Science and Technology
+    url: https://www.ntust.edu.tw/
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: NTUST alum in EE and CS, currently Research Assistant @NTNU and Intern @Logitech Inc.
 
 # Interests to show in About widget
 interests:
@@ -41,23 +40,24 @@ social:
     link: '/#contact'
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-  - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
-    icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://twitter.com/AJY_Chen
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/ajychen
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.linkedin.com/andrewjychen
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`,
 # and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: uploads/resume.pdf
+  - icon: cv
+    icon_pack: ai
+    link: uploads/resume.pdf
+
+# - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
+#   icon_pack: fas
+#   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ''
@@ -66,8 +66,8 @@ email: ''
 highlight_name: true
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Jun-Yu (Andrew) Chen is a recent graduate from National Taiwan University of Science and Technology (NTUST), Electrical and Computer Engineering Undergraduate Honors Program with a major in Electrical Engineering and double major in Computer Science and Information Engineering. His knowledge consists of both EE and CSIE fundamentals while his interest crosses multiple fields.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+He worked as both TA and RA in NTUST. His former work was mainly on human-related product design solving hardship of the minorities as well as AI/ML in games while he is currently exploring the duplication and synchronization of interactions in physical reality while being at distanced spaces for collaboration and accessibility, while maintaining interest in learning and gaining experience on opportunities in other domains.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
