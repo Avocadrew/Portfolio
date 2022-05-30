@@ -25,7 +25,7 @@ experience:
   - title: CEO
     company: GenCoin
     company_url: ''
-    company_logo: Logi.png
+    company_logo: Logi
     location: California
     date_start: '2021-01-01'
     date_end: ''
