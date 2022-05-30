@@ -24,7 +24,7 @@ date_format: Jan 2006
 experience:
   - title: Imaging Intern
     company: Logitech Inc.
-    company_url: 'www.logitech.com'
+    company_url: ''
     company_logo: org-gc
     location: Hsinchu, Taiwan
     date_start: '2022-02-14'
