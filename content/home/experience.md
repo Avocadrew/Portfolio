@@ -22,39 +22,28 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: Imaging Intern
-    company: Logitech Inc.
-    company_url: 'www.logitech.com'
-    company_logo: Logi
-    location: Hsinchu, Taiwan
-    date_start: '2022-02-14'
-    date_end: '2022-08-12'
-    description: 
-    Imaging Engineering - Image Quality Team, Video Collaboration Group.
-    Worked on automation algorithms, test scene building, scene test conducting/analysis and in-house tool making for next-gen camera products.
+  - title: CEO
+    company: GenCoin
+    company_url: ''
+    company_logo: org-gc
+    location: California
+    date_start: '2021-01-01'
+    date_end: ''
+    description: |2-
+        Responsibilities include:
+        
+        * Analysing
+        * Modelling
+        * Deploying
 
-  - title: Research Assistant
-    company: National Taiwan Normal University
-    company_url: 'https://www.ntnu.edu.tw/'
-    company_logo: NTNU
-    location: Taipei,Taiwan
-    date_start: '2021-10-01'
-    description: 
-    HCI Group, School of Arts
-    Research on Media Design related projects under Kaiyuan Lin with a focus on telexisting tangible media for distanced collaboration.
-
-    - title: Research Assistant
-    company: National Taiwan University of Science and Technology
-    company_url: 'https://www.ntust.edu.tw/'
-    company_logo: NTUST
-    location: Taipei,Taiwan
-    date_start: '2020-04-01'
-    date_end: '2021-09-12'
-    description: 
-    Computer Game Animation and Graphics Lab, Department of Computer Science and Information Engineering.
-    Research on AI/ML Applications in Gaming Technology and HCI research, namely Procedural Content Generation under player difficulty perception supervised by Prof. Yu-Chi Lai.
-
-    
+  - title: Professor of Semiconductor Physics
+    company: University X
+    company_url: ''
+    company_logo: org-x
+    location: California
+    date_start: '2016-01-01'
+    date_end: '2020-12-31'
+    description: Taught electronic engineering and researched semiconductor physics.
 
 design:
   columns: '2'
