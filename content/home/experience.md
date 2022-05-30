@@ -22,19 +22,16 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
-    company_url: ''
+  - title: Imaging Intern
+    company: Logitech Inc.
+    company_url: 'www.logitech.com'
     company_logo: org-gc
-    location: California
-    date_start: '2021-01-01'
-    date_end: ''
-    description: |2-
-        Responsibilities include:
-        
-        * Analysing
-        * Modelling
-        * Deploying
+    location: Hsinchu, Taiwan
+    date_start: '2022-02-14'
+    date_end: '2022-08-12'
+    description: 
+    Imaging Engineering - Image Quality Team, Video Collaboration Group.
+    Worked on automation algorithms, test scene building and scene test conducting/analysis for next-gen camera products.
 
   - title: Professor of Semiconductor Physics
     company: University X
