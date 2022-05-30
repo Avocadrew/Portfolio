@@ -35,7 +35,7 @@ experience:
 
   - title: Research Assistant
     company: National Taiwan Normal University
-    company_url: ''
+    company_url: 'https://www.ntnu.edu.tw/'
     company_logo: NTNU
     location: Taipei,Taiwan
     date_start: '2021-10-01'
@@ -45,7 +45,7 @@ experience:
 
     - title: Research Assistant
     company: National Taiwan University of Science and Technology
-    company_url: ''
+    company_url: 'https://www.ntust.edu.tw/'
     company_logo: NTUST
     location: Taipei,Taiwan
     date_start: '2020-04-01'
@@ -54,17 +54,8 @@ experience:
     Computer Game Animation and Graphics Lab, Department of Computer Science and Information Engineering.
     Research on AI/ML Applications in Gaming Technology and HCI research, namely Procedural Content Generation under player difficulty perception supervised by Prof. Yu-Chi Lai.
 
-    - title: Research Assistant
-    company: National Taiwan University of Science and Technology
-    company_url: ''
-    company_logo: NTUST
-    location: Taipei,Taiwan
-    date_start: '2019-02-01'
-    date_end: '2020-09-12'
-    description: 
-    Medical Device Research Lab, Graduate Institute of Biomedical Engineering.
-    Under Prof. Shang-Chih Lin, focusing on Design and Implementation of Embedded-System based orthopedic aiding and disease detecting devices.
+    
 
 design:
-  columns: '4'
+  columns: '2'
 ---
